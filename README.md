@@ -15,14 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am SQLDBA and TSQL Developer, trying to get into CyberSecurity field.Below are my goals for this year
-
-<ul>
-  <li>Build a 8 Bit CPU in Logisim</li>
-   <li>Complete NandToTetris-2</li>
-  <li>Learn C </li>
-  </ul>
-
-I will keep updating ,here my progress
-
+I am SQLDBA and TSQL Developer, trying to get into CyberSecurity field.
 
