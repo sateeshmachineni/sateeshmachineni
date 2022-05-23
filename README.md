@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am SQLDBA and TSQL Developer, trying to get into CyberSecurity field.
+I am SQLDBA,TSQL,Powershell,Bash developer... trying to get into CyberSecurity field.
 
